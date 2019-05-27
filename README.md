@@ -22,7 +22,7 @@ Via a quick plotting of the results we can see that, indeed, Teddy focuses his s
 
 **Word Frequency vs. Word StDev**
 
-![alt text](images/TR1902_Section_Words.png "TR1902 Plot of Section Words")
+![TR1902 Plot of Section Words](images/TR1902_Section_Words.png "TR1902 Plot of Section Words")
 
 ### Analysis
 * "Tariff", "navy", and "cable" are words that particularly stand out. Each of these words has a high frequency and are relatively close together in the speech.
@@ -50,4 +50,4 @@ Since is isn't really a completed analysis, I'm calling this section "Observatio
 
 * This analysis doesn't really show all that much, but with a bigger corpus (the whole of the speeches collection) it may be much more interesting.
 
-![alt text](images/TR1901-1908_Unique_Words.png "Number of Unique Words Across TR's Speeches")
+![Number of Unique Words Across TR's Speeches](images/TR1901-1908_Unique_Words.png "Number of Unique Words Across TR's Speeches")
